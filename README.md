@@ -1,8 +1,6 @@
 # *oksuman*
 
-actually sandgoman
-
-seven falls down, then eight rises up like roly-poly
+seven falls down, eight rises up 
 
 * using
   ![1660027456957](image/README/1660027456957.png)	![1660027464652](image/README/1660027464652.png)
